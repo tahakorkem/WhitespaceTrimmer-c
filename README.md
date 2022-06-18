@@ -1,0 +1,1 @@
+A simple C program that trims redundant whitespaces in the given text. The whitespaces can be at the beginning, middle, or end of the text.
